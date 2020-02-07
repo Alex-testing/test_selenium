@@ -1,0 +1,5 @@
+selenium
+flake8
+ipython
+pytest
+allure-pytest
